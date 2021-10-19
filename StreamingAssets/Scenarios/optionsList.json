@@ -1,0 +1,795 @@
+{
+    "Options": [
+        {
+            "id": 0,
+            "MainCategory": "気道",
+            "SubCategory1": "マスク換気",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 1,
+            "MainCategory": "気道",
+            "SubCategory1": "気管挿管",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 2,
+            "MainCategory": "気道",
+            "SubCategory1": "チューブのカフを入れる",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 3,
+            "MainCategory": "気道",
+            "SubCategory1": "チューブのカフを脱気する",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 4,
+            "MainCategory": "気道",
+            "SubCategory1": "チューブをテープ固定する",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 5,
+            "MainCategory": "気道",
+            "SubCategory1": "気管内吸引",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 6,
+            "MainCategory": "気道",
+            "SubCategory1": "抜管する",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 7,
+            "MainCategory": "気道",
+            "SubCategory1": "聴診する",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 8,
+            "MainCategory": "気道",
+            "SubCategory1": "酸素投与",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 9,
+            "MainCategory": "点滴",
+            "SubCategory1": "末梢静脈ライン確保",
+            "SubCategory2": "22G",
+            "Remarks": "0"
+        },
+        {
+            "id": 10,
+            "MainCategory": "点滴",
+            "SubCategory1": "末梢静脈ライン確保",
+            "SubCategory2": "20G",
+            "Remarks": "0"
+        },
+        {
+            "id": 11,
+            "MainCategory": "点滴",
+            "SubCategory1": "末梢静脈ライン確保",
+            "SubCategory2": "18G",
+            "Remarks": "0"
+        },
+        {
+            "id": 12,
+            "MainCategory": "点滴",
+            "SubCategory1": "輸液投与速度調整",
+            "SubCategory2": "速く",
+            "Remarks": "輸液投与時のみ？"
+        },
+        {
+            "id": 13,
+            "MainCategory": "点滴",
+            "SubCategory1": "輸液投与速度調整",
+            "SubCategory2": "遅く",
+            "Remarks": "輸液投与時のみ？"
+        },
+        {
+            "id": 14,
+            "MainCategory": "点滴",
+            "SubCategory1": "輸液を変える",
+            "SubCategory2": "生理食塩水",
+            "Remarks": "0"
+        },
+        {
+            "id": 15,
+            "MainCategory": "点滴",
+            "SubCategory1": "輸液を変える",
+            "SubCategory2": "重炭酸リンゲル液",
+            "Remarks": "0"
+        },
+        {
+            "id": 16,
+            "MainCategory": "点滴",
+            "SubCategory1": "輸液を変える",
+            "SubCategory2": "5％ブドウ糖液",
+            "Remarks": "0"
+        },
+        {
+            "id": 17,
+            "MainCategory": "点滴",
+            "SubCategory1": "輸液を変える",
+            "SubCategory2": "膠質液",
+            "Remarks": "0"
+        },
+        {
+            "id": 18,
+            "MainCategory": "点滴",
+            "SubCategory1": "輸液を変える",
+            "SubCategory2": "輸血",
+            "Remarks": "0"
+        },
+        {
+            "id": 19,
+            "MainCategory": "麻酔器",
+            "SubCategory1": "空気6L/分",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 20,
+            "MainCategory": "麻酔器",
+            "SubCategory1": "酸素6L/分",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 21,
+            "MainCategory": "麻酔器",
+            "SubCategory1": "空気3L/分",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 22,
+            "MainCategory": "麻酔器",
+            "SubCategory1": "酸素3L/分",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 23,
+            "MainCategory": "麻酔器",
+            "SubCategory1": "空気2L/分 +酸素1L/分",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 24,
+            "MainCategory": "患者情報",
+            "SubCategory1": "血液ガス分析",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 25,
+            "MainCategory": "患者情報",
+            "SubCategory1": "手術進行",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 26,
+            "MainCategory": "患者情報",
+            "SubCategory1": "出血量",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 27,
+            "MainCategory": "患者情報",
+            "SubCategory1": "術野参照",
+            "SubCategory2": "0",
+            "Remarks": "0"
+        },
+        {
+            "id": 28,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "プロポフォール",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 29,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "プロポフォール",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 30,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "プロポフォール",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 31,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "プロポフォール",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 32,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "プロポフォール",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 33,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "レミフェンタニル",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 34,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "レミフェンタニル",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 35,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "レミフェンタニル",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 36,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "レミフェンタニル",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 37,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "レミフェンタニル",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 38,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "フェンタニル",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 39,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "フェンタニル",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 40,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "フェンタニル",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 41,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "フェンタニル",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 42,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "フェンタニル",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 43,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "ロクロニウム",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 44,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "ロクロニウム",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 45,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "ロクロニウム",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 46,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "ロクロニウム",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 47,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "ロクロニウム",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 48,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "局所麻酔薬(硬膜外麻酔)",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 49,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "局所麻酔薬(硬膜外麻酔)",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 50,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "局所麻酔薬(硬膜外麻酔)",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 51,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "局所麻酔薬(硬膜外麻酔)",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 52,
+            "MainCategory": "薬剤(麻酔導入)",
+            "SubCategory1": "局所麻酔薬(硬膜外麻酔)",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 53,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "プロポフォール",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 54,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "プロポフォール",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 55,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "プロポフォール",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 56,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "プロポフォール",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 57,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "プロポフォール",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 58,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "レミフェンタニル",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 59,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "レミフェンタニル",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 60,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "レミフェンタニル",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 61,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "レミフェンタニル",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 62,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "レミフェンタニル",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 63,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "フェンタニル",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 64,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "フェンタニル",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 65,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "フェンタニル",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 66,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "フェンタニル",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 67,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "フェンタニル",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 68,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ロクロニウム",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 69,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ロクロニウム",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 70,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ロクロニウム",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 71,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ロクロニウム",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 72,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ロクロニウム",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 73,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "スガマデックス",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 74,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "スガマデックス",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 75,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "スガマデックス",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 76,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "スガマデックス",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 77,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "スガマデックス",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 78,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "エフェドリン",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 79,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "エフェドリン",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 80,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "エフェドリン",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 81,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "エフェドリン",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 82,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "エフェドリン",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 83,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "フェニレフリン",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 84,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "フェニレフリン",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 85,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "フェニレフリン",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 86,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "フェニレフリン",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 87,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "フェニレフリン",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 88,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ニコランジル",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 89,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ニコランジル",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 90,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ニコランジル",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 91,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ニコランジル",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 92,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ニコランジル",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 93,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ニカルジピン",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 94,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ニカルジピン",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 95,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ニカルジピン",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 96,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ニカルジピン",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 97,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ニカルジピン",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 98,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ランジオロール",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 99,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ランジオロール",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 100,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ランジオロール",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 101,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ランジオロール",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 102,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "ランジオロール",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 103,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "アセトアミノフェン",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 104,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "アセトアミノフェン",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 105,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "アセトアミノフェン",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 106,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "アセトアミノフェン",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 107,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "アセトアミノフェン",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 108,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "局所麻酔薬(硬膜外麻酔)",
+            "SubCategory2": "単回投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 109,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "局所麻酔薬(硬膜外麻酔)",
+            "SubCategory2": "持続投与",
+            "Remarks": "0"
+        },
+        {
+            "id": 110,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "局所麻酔薬(硬膜外麻酔)",
+            "SubCategory2": "投与量up",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 111,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "局所麻酔薬(硬膜外麻酔)",
+            "SubCategory2": "投与量down",
+            "Remarks": "持続投与時のみ"
+        },
+        {
+            "id": 112,
+            "MainCategory": "薬剤(麻酔導入後)",
+            "SubCategory1": "局所麻酔薬(硬膜外麻酔)",
+            "SubCategory2": "持続終了",
+            "Remarks": "持続投与時のみ"
+        }
+    ]
+}
